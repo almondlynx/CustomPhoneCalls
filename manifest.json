@@ -1,0 +1,10 @@
+﻿{
+  "Name": "CustomPhoneCalls",
+  "Author": "DadNavi",
+  "Version": "1.0.0",
+  "Description": "Adds incoming phone calls.",
+  "UniqueID": "DadNavi.CustomPhoneCalls",
+  "EntryDll": "CustomPhoneCalls.dll",
+  "MinimumApiVersion": "3.8.0",
+  "UpdateKeys": []
+}

@@ -1,0 +1,18 @@
+﻿{
+	"custom_call_example_jodi" : {
+		"npc" : "Jodi",
+		"dialogue" : [
+			"Hello, is it @?$0",
+			"Just wanted to say that you should come by sometimes.$0",
+			"We really enjoy your company.$1",
+			"Oh my, I'm running late. Have a nice day!$1"
+			]
+		},
+	"custom_call_example_none" : {
+		"npc" : "",
+		"dialogue" : [
+			"Hello, is it pizza delivery?",
+			"Sorry, wrong number."
+			]
+		}
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPhoneCalls", "CustomPhoneCalls.csproj", "{E1AE7D7D-1208-4701-9DFA-70603B59DBEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1AE7D7D-1208-4701-9DFA-70603B59DBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1AE7D7D-1208-4701-9DFA-70603B59DBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1AE7D7D-1208-4701-9DFA-70603B59DBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1AE7D7D-1208-4701-9DFA-70603B59DBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8AD19D8-F4EB-4E10-908E-D74A3D1976C5}
+	EndGlobalSection
+EndGlobal
